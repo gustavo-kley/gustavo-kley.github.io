@@ -12,7 +12,7 @@
     transform: translateX(-50%);
     padding: 15px;
     border: 2px solid #000;
-    color: blueviolet;
+    color: #071952;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 } */
@@ -45,7 +45,7 @@ body {
     align-items: center;
     background: #fff;
     font-weight: 400;
-    color: #272341;
+    color: #071952;
     padding: 0rem 5.6rem;
     /* animation: hidden 1000ms linear forwards; */
 }
@@ -78,7 +78,7 @@ body {
 
 .name {
     visibility: hidden;
-    color: blueviolet;
+    color: #134B70;
     animation: fadeInName 3s ease forwards;
 }
 
@@ -148,7 +148,7 @@ body {
     position: absolute;
     top: 20%;
     left: 50%;
-    border: 2px solid blueviolet;
+    border: 2px solid #071952;
     transform: translate(-50%, -100%) rotate(45deg);
     border-top: none;
     border-left: none;
@@ -183,7 +183,6 @@ body {
 
 /* div sobre */
 #sobre {
-    height: 100vh;
     display: flex;
     align-items: flex-start;
     background-color: blueviolet;
@@ -251,7 +250,7 @@ body {
     height: 100%;
     display: flex;
     align-items: flex-start;
-    background-color: blueviolet;
+    background-color:  #071952;
     clip-path: none;
     font-family: "Poppins", sans-serif;
 }
@@ -274,7 +273,7 @@ body {
 }
 .cta-btn:hover {
     box-shadow: 2px whitesmoke;
-    color: blueviolet;
+    color: #071952;
     background-color: whitesmoke;
 }
 
@@ -872,7 +871,7 @@ footer {
         height: 100%;
         display: flex;
         align-items: center;
-        background-color: blueviolet;
+        background-color: #071952;
         clip-path: none;
         font-family: "Poppins", sans-serif;
     }
@@ -885,8 +884,8 @@ footer {
     }
 
     .sobre-image .perfil-image {
-        width: 520px;
-        height: 420px;
+        width: 420px;
+        height: 410px;
         border: 4px solid white;
     }
 
@@ -918,7 +917,7 @@ footer {
         font-size: 33px;
         font-weight: bold;
         color: #ffffff;
-        text-align: center;
+        text-align: left;
         line-height: 1.5;
         font-family: 'Poppins',sans-serif;
     }
